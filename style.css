@@ -1,4 +1,17 @@
 body{
- color:whithe;
- background:black;
-}
+    color:whithe;
+    background:rgb(153, 122, 182);
+   }
+
+   .bio{
+     color: rgb(255, 0, 0);
+     background-color: rgb(231, 231, 231);
+   }
+    h1{
+        text-align: center;
+    }
+
+    .img{ 
+        text-align: center;            
+           
+    }
