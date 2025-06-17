@@ -31,5 +31,5 @@ video {
 
 .info p {
   font-size: 13px;
-  color: #e0dfdf;
+  color: #ffffff; /* Cor corrigida para o branco para melhorar contraste *\
 }
